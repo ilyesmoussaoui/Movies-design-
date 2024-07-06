@@ -324,7 +324,7 @@ fun TrendingRow(modifier: Modifier = Modifier) {
 
         }
     }
-    
+
 }
 
 
